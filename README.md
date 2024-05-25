@@ -1,5 +1,5 @@
-# Hi 👋, I'm Vishal Pattar
-### A passionate Machine Learning Developer from India
+<h1 align='center'>Hi 👋, I'm Vishal Pattar</h1>
+<h3 align='center'>A passionate Machine Learning Developer from India</h3>
 
 ![vishal-pattar](https://komarev.com/ghpvc/?username=vishal-pattar&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -15,11 +15,13 @@
 
 - ⚡ Fun fact **I am non-conventional, frugal innovator (aka Jugaadu)**
 
+---
 ### Connect with me:
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishal-pattar-1403801a1/" height="30" width="40" />](https://linkedin.com/in/https://www.linkedin.com/in/vishal-pattar-1403801a1/)
 [<img align="center" src="https://img.icons8.com/?size=100&id=37326&format=png&color=ff0000" alt="https://www.youtube.com/@vishalpattar03" width="40" />](https://www.youtube.com/@vishalpattar03)
 
-
-
+---
 ### GitHub Stats
 ![vishal-pattar](https://github-readme-stats.vercel.app/api/top-langs?username=vishal-pattar&show_icons=true&locale=en&layout=compact)
+
+---
