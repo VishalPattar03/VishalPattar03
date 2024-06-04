@@ -1,7 +1,7 @@
 <h1 align='center'>Hi 👋, I'm Vishal Pattar</h1>
 <h3 align='center'>A passionate Machine Learning Developer from India</h3>
 
-![vishal-pattar](https://komarev.com/ghpvc/?username=vishal-pattar&label=Profile%20views&color=0e75b6&style=flat)
+![vishal-pattar](https://komarev.com/ghpvc/?username=VishalPattar03&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🔍 About Me
 - 🔭 I’m currently working on **Emotional Intelligence**
