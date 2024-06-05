@@ -39,4 +39,4 @@
 <br>
 ![vishal-pattar](https://github-readme-stats.vercel.app/api?username=vishalpattar03&show_icons=true&locale=en&theme=light)
 <br>
-![readme streak](https://github-readme-streak-stats.herokuapp.com/?user=vishalpattar03)
+![readme streak](https://github-readme-streak-stats.herokuapp.com/?user=vishalpattar03&theme=radical)
