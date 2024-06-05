@@ -37,5 +37,5 @@
 ## 📈 GitHub Stats
 ![vishal-pattar](https://github-readme-stats.vercel.app/api/top-langs?username=vishalpattar03&show_icons=true&locale=en&layout=compact)
 <br><br><br><br><br><br><br><br>
-![vishal-pattar](https://github-readme-stats.vercel.app/api?username=vishalpattar03&show_icons=true&locale=en&theme=dark)
-![vishal-pattar](https://github-readme-streak-stats.herokuapp.com/?user=vishalpattar03&theme=dark)
+![vishal-pattar](https://github-readme-stats.vercel.app/api?username=vishalpattar03&show_icons=true&locale=en&theme=light)
+![vishal-pattar](https://github-readme-streak-stats.herokuapp.com/?user=vishalpattar03&theme=light)
