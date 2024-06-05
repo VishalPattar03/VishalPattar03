@@ -30,13 +30,15 @@
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-333?style=flat&logo=google-cloud)
 
+<!--
 ## 🌐 Connect with Me
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishal-pattar-1403801a1/" height="30" width="40" />](https://linkedin.com/in/https://www.linkedin.com/in/vishal-pattar-1403801a1/)
 [<img align="center" src="https://img.icons8.com/?size=100&id=37326&format=png&color=ff0000" alt="https://www.youtube.com/@vishalpattar03" width="40" />](https://www.youtube.com/@vishalpattar03)
+-->
 
 ## 📈 GitHub Stats
-![vishal-pattar](https://github-readme-stats.vercel.app/api/top-langs?username=vishalpattar03&show_icons=true&locale=en&layout=compact&theme=dark)
+![vishal-pattar](https://github-readme-stats.vercel.app/api/top-langs?username=vishalpattar03&show_icons=true&locale=en&layout=compact&theme=light)
 <br>
-![vishal-pattar](https://github-readme-stats.vercel.app/api?username=vishalpattar03&show_icons=true&locale=en&theme=dark)
-<br>
-![readme streak](https://github-readme-streak-stats.herokuapp.com/?user=vishalpattar03&theme=radical)
+<!--![vishal-pattar](https://github-readme-stats.vercel.app/api?username=vishalpattar03&show_icons=true&locale=en&theme=light)
+<br>-->
+![readme streak](https://github-readme-streak-stats.herokuapp.com/?user=vishalpattar03&theme=light)
