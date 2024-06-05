@@ -35,3 +35,8 @@
 [<img align="center" src="https://img.icons8.com/?size=100&id=37326&format=png&color=ff0000" alt="https://www.youtube.com/@vishalpattar03" width="40" />](https://www.youtube.com/@vishalpattar03)
 
 ## 📈 GitHub Stats
+![vishal-pattar](https://github-readme-stats.vercel.app/api/top-langs?username=vishalpattar03&show_icons=true&locale=en&layout=compact)
+<br>
+![vishal-pattar](https://github-readme-stats.vercel.app/api?username=vishalpattar03&show_icons=true&locale=en&theme=light)
+<br>
+![readme streak](https://github-readme-streak-stats.herokuapp.com/?user=vishalpattar03)
