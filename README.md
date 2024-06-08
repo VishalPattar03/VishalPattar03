@@ -53,11 +53,11 @@
 <a href='https://openbadgepassport.com/app/badge/info/746137'>
   <img src='https://github.com/VishalPattar03/VishalPattar03/assets/115028992/0030b98d-718f-44ea-acf4-1a982aa082e3' width='100px'>
 </a>
-<a href='https://openbadgepassport.com/app/badge/info/746203'>
-  <img src='https://github.com/VishalPattar03/VishalPattar03/assets/115028992/6e5c586f-a9e3-4369-9875-5e27b2dc18d6' width='100px'>
-</a>
 <a href='https://openbadgepassport.com/app/badge/info/746204'>
   <img src='https://github.com/VishalPattar03/VishalPattar03/assets/115028992/85550979-ef6e-4f61-b199-144e89f47d56' width='100px'>
+</a>
+<a href='https://openbadgepassport.com/app/badge/info/746203'>
+  <img src='https://github.com/VishalPattar03/VishalPattar03/assets/115028992/6e5c586f-a9e3-4369-9875-5e27b2dc18d6' width='100px'>
 </a>
 <br><br>
 <a href='https://openbadgepassport.com/app/badge/info/748429'>
