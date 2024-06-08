@@ -36,6 +36,12 @@
 [<img align="center" src="https://img.icons8.com/?size=100&id=37326&format=png&color=ff0000" alt="https://www.youtube.com/@vishalpattar03" width="40" />](https://www.youtube.com/@vishalpattar03)
 -->
 
+## Badges
+<img src='https://github.com/VishalPattar03/VishalPattar03/assets/115028992/fcc93f13-39dc-4dda-9322-5e69629bc888' width='100px'>
+<img src='https://github.com/VishalPattar03/VishalPattar03/assets/115028992/d4a29847-e414-41bb-ad97-2cc8bc8212cb' width='100px'>
+<img src='https://github.com/VishalPattar03/VishalPattar03/assets/115028992/f33aabdf-6a29-40aa-8092-02fe87f76d4b' width='100px'>
+<img src='https://github.com/VishalPattar03/VishalPattar03/assets/115028992/cac7f803-2f30-45f4-b27f-14eb634ad0e0' width='100px'>
+
 ## 📈 GitHub Stats
 ![vishal-pattar](https://github-readme-stats.vercel.app/api/top-langs?username=vishalpattar03&show_icons=true&locale=en&layout=compact&theme=light)
 <br>
