@@ -49,6 +49,26 @@
 <a href='https://www.credly.com/badges/fe831383-dda8-4130-8f2a-3e0ac78fabee/public_url'>
   <img src='https://github.com/VishalPattar03/VishalPattar03/assets/115028992/d4a29847-e414-41bb-ad97-2cc8bc8212cb' width='100px'>
 </a>
+<br><br>
+<a href='https://openbadgepassport.com/app/badge/info/746137'>
+  <img src='https://github.com/VishalPattar03/VishalPattar03/assets/115028992/0030b98d-718f-44ea-acf4-1a982aa082e3' width='100px'>
+</a>
+<a href='https://openbadgepassport.com/app/badge/info/746203'>
+  <img src='https://github.com/VishalPattar03/VishalPattar03/assets/115028992/6e5c586f-a9e3-4369-9875-5e27b2dc18d6' width='100px'>
+</a>
+<a href='https://openbadgepassport.com/app/badge/info/746204'>
+  <img src='https://github.com/VishalPattar03/VishalPattar03/assets/115028992/85550979-ef6e-4f61-b199-144e89f47d56' width='100px'>
+</a>
+<br><br>
+<a href='https://openbadgepassport.com/app/badge/info/748429'>
+  <img src='https://github.com/VishalPattar03/VishalPattar03/assets/115028992/01270643-83db-43d7-93f6-9d7fe2dd7690' width='100px'>
+</a>
+<a href='https://openbadgepassport.com/app/badge/info/748408'>
+  <img src='https://github.com/VishalPattar03/VishalPattar03/assets/115028992/4458ab3f-2595-4630-9808-79c4aaa6f54f' width='100px'>
+</a>
+<a href='https://openbadgepassport.com/app/badge/info/748402'>
+  <img src='https://github.com/VishalPattar03/VishalPattar03/assets/115028992/3d117b18-586c-45a6-b20d-c8ea9506bee6' width='100px'>
+</a>
 
 ## 📈 GitHub Stats
 ![vishal-pattar](https://github-readme-stats.vercel.app/api/top-langs?username=vishalpattar03&show_icons=true&locale=en&layout=compact&theme=light)
