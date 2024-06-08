@@ -37,10 +37,18 @@
 -->
 
 ## Badges
-<img src='https://github.com/VishalPattar03/VishalPattar03/assets/115028992/fcc93f13-39dc-4dda-9322-5e69629bc888' width='100px'>
-<img src='https://github.com/VishalPattar03/VishalPattar03/assets/115028992/d4a29847-e414-41bb-ad97-2cc8bc8212cb' width='100px'>
-<img src='https://github.com/VishalPattar03/VishalPattar03/assets/115028992/f33aabdf-6a29-40aa-8092-02fe87f76d4b' width='100px'>
-<img src='https://github.com/VishalPattar03/VishalPattar03/assets/115028992/cac7f803-2f30-45f4-b27f-14eb634ad0e0' width='100px'>
+<a href='https://www.credly.com/badges/1edd848e-150d-4126-a5c1-24c62b40e5e6/public_url'>
+  <img src='https://github.com/VishalPattar03/VishalPattar03/assets/115028992/cac7f803-2f30-45f4-b27f-14eb634ad0e0' width='100px'>
+</a>
+<a href='https://www.credly.com/badges/3194942b-cdea-4e93-9e2d-3940e1d04e20/public_url'>
+  <img src='https://github.com/VishalPattar03/VishalPattar03/assets/115028992/f33aabdf-6a29-40aa-8092-02fe87f76d4b' width='100px'>
+</a>
+<a href='https://www.credly.com/badges/50505f79-8440-45b0-8753-68d47a371e26/public_url'>
+  <img src='https://github.com/VishalPattar03/VishalPattar03/assets/115028992/fcc93f13-39dc-4dda-9322-5e69629bc888' width='100px'>
+</a>
+<a href='https://www.credly.com/badges/fe831383-dda8-4130-8f2a-3e0ac78fabee/public_url'>
+  <img src='https://github.com/VishalPattar03/VishalPattar03/assets/115028992/d4a29847-e414-41bb-ad97-2cc8bc8212cb' width='100px'>
+</a>
 
 ## 📈 GitHub Stats
 ![vishal-pattar](https://github-readme-stats.vercel.app/api/top-langs?username=vishalpattar03&show_icons=true&locale=en&layout=compact&theme=light)
